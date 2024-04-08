@@ -1,1 +1,1 @@
-# senior-sting
+# Senior Sting (Senior Tag) Emailing Script
